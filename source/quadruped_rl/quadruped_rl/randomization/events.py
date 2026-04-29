@@ -1,0 +1,1 @@
+"""Randomization event placeholders."""

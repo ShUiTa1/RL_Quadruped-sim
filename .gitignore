@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Isaac Lab / training outputs
+logs/
+runs/
+wandb/
+checkpoints/
+*.pt
+*.pth
+*.onnx
+
+# Generated media and large local artifacts
+*.mp4
+*.avi
+*.mov
+*.gif
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
