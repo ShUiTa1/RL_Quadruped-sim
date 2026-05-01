@@ -16,9 +16,9 @@ Do not start by porting the old PyBullet environment. First verify that a known 
 
 ## Setup Checklist
 
-- [ ] Install Isaac Sim.
-- [ ] Install Isaac Lab.
-- [ ] Run Isaac Lab environment checks.
+- [x] Install Isaac Sim.
+- [x] Install Isaac Lab.
+- [x] Run Isaac Lab environment checks.
 - [ ] Run an official locomotion training command.
 - [ ] Play a checkpoint.
 - [ ] Open TensorBoard or equivalent logs.
